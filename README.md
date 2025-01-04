@@ -32,16 +32,21 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![WhatsApp Image 2025-01-04 at 13 30 31_d5918186](https://github.com/user-attachments/assets/ee12c5eb-ee46-41bc-8522-8b0b480e15a3)
+![WhatsApp Image 2025-01-04 at 13 30 31_fea0c48b](https://github.com/user-attachments/assets/6560c2cc-1cc1-46f3-b632-6131a46d2c4e)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![WhatsApp Image 2025-01-04 at 13 31 52_1e9f76c3](https://github.com/user-attachments/assets/045f1b7a-7a96-458b-86fc-5f5493bab2d8)
+![WhatsApp Image 2025-01-04 at 13 31 32_b3126f8c](https://github.com/user-attachments/assets/aabda34a-241a-4e70-b154-33644cd5d5a4)
+
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![WhatsApp Image 2025-01-04 at 13 34 05_c7bde9e3](https://github.com/user-attachments/assets/dff97b05-c219-467f-8b18-5a0acc61d905)
+![WhatsApp Image 2025-01-04 at 13 34 05_3fa77aa4](https://github.com/user-attachments/assets/d58ba2ea-3238-46b3-bb82-58b92bc36822)
+
+
 
 ## Output:
 ![Screenshot 2024-12-18 183306](https://github.com/user-attachments/assets/e53606c7-fa42-4793-b7e7-ab0b0b77e05a)
